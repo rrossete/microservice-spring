@@ -1,4 +1,10 @@
+course\microservice\core\property\JwtConfiguration$Header.class
+course\microservice\core\model\ApplicationUser$ApplicationUserBuilder.class
+course\microservice\core\model\ApplicationUser.class
+course\microservice\core\repository\ApplicationUserRepository.class
+course\microservice\core\repository\CourseRepository.class
 course\microservice\core\model\Course$CourseBuilder.class
 course\microservice\core\model\AbstractEntity.class
-course\microservice\core\repository\CourseRepository.class
+course\microservice\core\property\JwtConfiguration.class
+META-INF\spring-configuration-metadata.json
 course\microservice\core\model\Course.class
